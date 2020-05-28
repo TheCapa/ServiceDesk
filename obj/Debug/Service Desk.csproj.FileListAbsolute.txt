@@ -1,0 +1,94 @@
+C:\Users\aluno.SENACAME\Desktop\Projeto\Service Desk\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\aluno.SENACAME\Desktop\Projeto\Service Desk\Service Desk\bin\Debug\Service Desk.exe
+C:\Users\aluno.SENACAME\Desktop\Projeto\Service Desk\Service Desk\bin\Debug\Service Desk.pdb
+C:\Users\aluno.SENACAME\Desktop\Projeto\Service Desk\Service Desk\obj\Debug\Service Desk.csprojResolveAssemblyReference.cache
+C:\Users\aluno.SENACAME\Desktop\Projeto\Service Desk\Service Desk\obj\Debug\Service_Desk.formLogin.resources
+C:\Users\aluno.SENACAME\Desktop\Projeto\Service Desk\Service Desk\obj\Debug\Service_Desk.Properties.Resources.resources
+C:\Users\aluno.SENACAME\Desktop\Projeto\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.GenerateResource.Cache
+C:\Users\aluno.SENACAME\Desktop\Projeto\Service Desk\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\aluno.SENACAME\Desktop\Projeto\Service Desk\Service Desk\obj\Debug\Service Desk.pdb
+C:\Users\aluno.SENACAME\Desktop\Projeto\Service Desk\Service Desk\obj\Debug\Service_Desk.ServiceDeskGerenciador.resources
+C:\Users\aluno.SENACAME\Desktop\Projeto\Service Desk\Service Desk\obj\Debug\Service_Desk.UserForm.resources
+C:\Users\aluno.SENACAME\Desktop\Projeto (16-09-13)\Service Desk\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\aluno.SENACAME\Desktop\Projeto (16-09-13)\Service Desk\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\aluno.SENACAME\Desktop\Projeto (16-09-13)\Service Desk\Service Desk\obj\Debug\Service Desk.pdb
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk\Service Desk\obj\Debug\Service Desk.pdb
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk\Service Desk\bin\Debug\Service Desk.exe
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk\Service Desk\bin\Debug\Service Desk.pdb
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk\Service Desk\obj\Debug\Service Desk.csprojResolveAssemblyReference.cache
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk\Service Desk\obj\Debug\Service_Desk.formLogin.resources
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk\Service Desk\obj\Debug\Service_Desk.Properties.Resources.resources
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk\Service Desk\obj\Debug\Service_Desk.ServiceDeskGerenciador.resources
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk\Service Desk\obj\Debug\Service_Desk.UserForm.resources
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.GenerateResource.Cache
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk 1\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk 1\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk 1\Service Desk\obj\Debug\Service Desk.pdb
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk 1\Service Desk\bin\Debug\Service Desk.exe
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk 1\Service Desk\bin\Debug\Service Desk.pdb
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk 1\Service Desk\obj\Debug\Service Desk.csprojResolveAssemblyReference.cache
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk 1\Service Desk\obj\Debug\Service_Desk.formLogin.resources
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk 1\Service Desk\obj\Debug\Service_Desk.Properties.Resources.resources
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk 1\Service Desk\obj\Debug\Service_Desk.ServiceDeskGerenciador.resources
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk 1\Service Desk\obj\Debug\Service_Desk.UserForm.resources
+C:\Users\aluno.SENACAME\Documents\Rafael Tec_TI 04\Service Desk 1\Service Desk\obj\Debug\Service Desk.csproj.GenerateResource.Cache
+C:\Users\aluno.SENACAME\Desktop\Service Desk 1\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\aluno.SENACAME\Desktop\Service Desk 1\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\aluno.SENACAME\Desktop\Service Desk 1\Service Desk\obj\Debug\Service Desk.pdb
+C:\Users\aluno.SENACAME\Desktop\Service Desk 1\Service Desk\bin\Debug\Service Desk.exe
+C:\Users\aluno.SENACAME\Desktop\Service Desk 1\Service Desk\bin\Debug\Service Desk.pdb
+C:\Users\aluno.SENACAME\Desktop\Service Desk 1\Service Desk\obj\Debug\Service Desk.csprojResolveAssemblyReference.cache
+C:\Users\aluno.SENACAME\Desktop\Service Desk 1\Service Desk\obj\Debug\Service_Desk.formLogin.resources
+C:\Users\aluno.SENACAME\Desktop\Service Desk 1\Service Desk\obj\Debug\Service_Desk.Properties.Resources.resources
+C:\Users\aluno.SENACAME\Desktop\Service Desk 1\Service Desk\obj\Debug\Service_Desk.ServiceDeskGerenciador.resources
+C:\Users\aluno.SENACAME\Desktop\Service Desk 1\Service Desk\obj\Debug\Service_Desk.UserForm.resources
+C:\Users\aluno.SENACAME\Desktop\Service Desk 1\Service Desk\obj\Debug\Service Desk.csproj.GenerateResource.Cache
+C:\Users\aluno.SENACAME\Desktop\Service Desk 12\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\aluno.SENACAME\Desktop\Service Desk 12\Service Desk\bin\Debug\Service Desk.exe
+C:\Users\aluno.SENACAME\Desktop\Service Desk 12\Service Desk\bin\Debug\Service Desk.pdb
+C:\Users\aluno.SENACAME\Desktop\Service Desk 12\Service Desk\obj\Debug\Service Desk.csprojResolveAssemblyReference.cache
+C:\Users\aluno.SENACAME\Desktop\Service Desk 12\Service Desk\obj\Debug\Service_Desk.formLogin.resources
+C:\Users\aluno.SENACAME\Desktop\Service Desk 12\Service Desk\obj\Debug\Service_Desk.Properties.Resources.resources
+C:\Users\aluno.SENACAME\Desktop\Service Desk 12\Service Desk\obj\Debug\Service_Desk.ServiceDeskGerenciador.resources
+C:\Users\aluno.SENACAME\Desktop\Service Desk 12\Service Desk\obj\Debug\Service_Desk.UserForm.resources
+C:\Users\aluno.SENACAME\Desktop\Service Desk 12\Service Desk\obj\Debug\Service Desk.csproj.GenerateResource.Cache
+C:\Users\aluno.SENACAME\Desktop\Service Desk 12\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\aluno.SENACAME\Desktop\Service Desk 12\Service Desk\obj\Debug\Service Desk.pdb
+C:\Users\Rafael\Downloads\Service Desk 12\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\Rafael\Downloads\Service Desk 12\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\Rafael\Downloads\Service Desk 12\Service Desk\obj\Debug\Service Desk.pdb
+C:\Users\Rafael\Downloads\Service Desk 12\Service Desk\bin\Debug\Service Desk.exe
+C:\Users\Rafael\Downloads\Service Desk 12\Service Desk\bin\Debug\Service Desk.pdb
+C:\Users\Rafael\Downloads\Service Desk 12\Service Desk\obj\Debug\Service Desk.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\Service Desk 12\Service Desk\obj\Debug\Service_Desk.formLogin.resources
+C:\Users\Rafael\Downloads\Service Desk 12\Service Desk\obj\Debug\Service_Desk.Properties.Resources.resources
+C:\Users\Rafael\Downloads\Service Desk 12\Service Desk\obj\Debug\Service_Desk.ServiceDeskGerenciador.resources
+C:\Users\Rafael\Downloads\Service Desk 12\Service Desk\obj\Debug\Service_Desk.UserForm.resources
+C:\Users\Rafael\Downloads\Service Desk 12\Service Desk\obj\Debug\Service Desk.csproj.GenerateResource.Cache
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\obj\Debug\Service Desk.pdb
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\obj\Debug\Service Desk.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.Esqueci_Senha.resources
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.formLogin.resources
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.Properties.Resources.resources
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.ServiceDeskGerenciador.resources
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\obj\Debug\Service_Desk.UserForm.resources
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\obj\Debug\Service Desk.csproj.GenerateResource.Cache
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\bin\Debug\Service Desk.exe
+C:\Users\Rafael\Downloads\Service Desk\Service Desk\bin\Debug\Service Desk.pdb
+C:\Users\rafae\Desktop\Senac\Service Desk\bin\Debug\Service Desk.exe.config
+C:\Users\rafae\Desktop\Senac\Service Desk\bin\Debug\Service Desk.exe
+C:\Users\rafae\Desktop\Senac\Service Desk\bin\Debug\Service Desk.pdb
+C:\Users\rafae\Desktop\Senac\Service Desk\obj\Debug\Service Desk.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\Senac\Service Desk\obj\Debug\Service_Desk.Esqueci_Senha.resources
+C:\Users\rafae\Desktop\Senac\Service Desk\obj\Debug\Service_Desk.formLogin.resources
+C:\Users\rafae\Desktop\Senac\Service Desk\obj\Debug\Service_Desk.Properties.Resources.resources
+C:\Users\rafae\Desktop\Senac\Service Desk\obj\Debug\Service_Desk.ServiceDeskGerenciador.resources
+C:\Users\rafae\Desktop\Senac\Service Desk\obj\Debug\Service_Desk.UserForm.resources
+C:\Users\rafae\Desktop\Senac\Service Desk\obj\Debug\Service Desk.csproj.GenerateResource.cache
+C:\Users\rafae\Desktop\Senac\Service Desk\obj\Debug\Service Desk.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Senac\Service Desk\obj\Debug\Service Desk.exe
+C:\Users\rafae\Desktop\Senac\Service Desk\obj\Debug\Service Desk.pdb
